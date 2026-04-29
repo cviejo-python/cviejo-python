@@ -31,7 +31,7 @@ Me considero una persona constante, responsable y con gran capacidad de aprendiz
 Aplicación web tipo tienda online inspirada en plataformas reales para uso propio.
 
 - Python (Flask/Django)
-- HTML, CSS, JavaScript
+- HTML, CSS
 - SQL
 - Funcionalidades: login, gestión de productos, carrito, pedidos
 
